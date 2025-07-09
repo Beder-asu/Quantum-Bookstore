@@ -30,3 +30,8 @@ PS:
 - The `BookstoreTest.java` file contains a complete test suite to validate core features and edge cases.  
 - No external libraries (like JDBC) are required for this version.  
 
+
+![image](https://github.com/user-attachments/assets/2a5fb31c-5492-42a1-9106-7a46e8ad6623)
+![image](https://github.com/user-attachments/assets/28e70e4d-327c-469f-be5a-ba6e67154b61)
+
+
